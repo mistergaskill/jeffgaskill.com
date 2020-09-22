@@ -1,10 +1,8 @@
 {
   "name": "jeffgaskill.com",
   "scripts": {
-    "dev": "nuxt",
-    "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "nuxt start"
+    "start": "nuxt dev",
+    "build": "nuxt generate"
   },
   "dependencies": {
     "nuxt": "^2.14.6"
