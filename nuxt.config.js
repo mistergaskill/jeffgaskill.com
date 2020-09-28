@@ -15,5 +15,6 @@ export default {
     css: [
         'vue-material/dist/vue-material.min.css',
         'vue-material/dist/theme/default.css'
-    ]
+    ],
+    plugins: ['@/plugins/vue-material.js']
 }
